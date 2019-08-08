@@ -1,0 +1,2 @@
+# cendolbot
+Just another repository
